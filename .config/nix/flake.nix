@@ -29,7 +29,6 @@
           pkgs.spotify
           pkgs.raycast
           pkgs.docker
-          pkgs.git-credential-manager
           pkgs.go
           pkgs.nmap
           pkgs.fzf

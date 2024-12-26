@@ -14,6 +14,11 @@ if [[ ! -d $ZINIT_HOME ]]; then
     git clone https://github.com/zdharma-continuum/zinit.git "$ZINIT_HOME"
 fi
 
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/shims:$PATH"
+
+if which pyenv > /dev/null; then eval "$(pyenv init -)"; fi
+
 # Source/Load Zinit
 source "${ZINIT_HOME}/zinit.zsh"
 
@@ -68,7 +73,7 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 # Aliases
 alias ls='ls --color'
 alias c='clear'
-alias nixup='darwin-rebuild switch --flake ~/.config/nix#macintosh'
+alias nixup='darwin-rebuild switch --flake ~/dotfiles/.config/nix#macintosh'
 
 # Shell Integrations
 eval "$(fzf --zsh)"

@@ -26,7 +26,6 @@
           pkgs.alt-tab-macos
           pkgs.discord
           pkgs.iterm2
-          pkgs.spotify
           pkgs.raycast
           pkgs.docker
           pkgs.go
@@ -46,6 +45,7 @@
         enable = true;
         brews = [
           "mas"
+          "pyenv"
         ];
         casks = [
           "firefox"
@@ -56,6 +56,7 @@
           "parsec"
           "vmware-fusion"
           "steam"
+          "eloston-chromium"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

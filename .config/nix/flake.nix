@@ -48,7 +48,6 @@
           "pyenv"
         ];
         casks = [
-          "the-unarchiver"
           "orbstack"
           "postman"
           "betterdisplay"

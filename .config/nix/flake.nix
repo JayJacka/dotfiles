@@ -48,7 +48,6 @@
           "pyenv"
         ];
         casks = [
-          "firefox"
           "the-unarchiver"
           "orbstack"
           "postman"

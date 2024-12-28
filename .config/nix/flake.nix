@@ -46,6 +46,7 @@
         brews = [
           "mas"
           "pyenv"
+          "pyenv-virtualenv"
         ];
         casks = [
           "orbstack"

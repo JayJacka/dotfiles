@@ -73,7 +73,7 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 # Aliases
 alias ls='ls --color'
 alias c='clear'
-alias nixup='darwin-rebuild switch --flake ~/dotfiles/.config/nix#macintosh'
+alias nixup='~/dotfiles_auto_push.sh && darwin-rebuild switch --flake ~/dotfiles/.config/nix#macintosh && ~/dotfiles_auto_push.sh'
 
 # Shell Integrations
 eval "$(fzf --zsh)"

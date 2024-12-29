@@ -62,6 +62,7 @@
           "Line" = 539883307;
           "Userscripts" = 1463298887;
           "AdGuard for Safari" = 1440147259;
+          "Shortery" = 1594183810;
         };
         onActivation.cleanup = "zap";
         onActivation.autoUpdate = true;

@@ -56,6 +56,7 @@
           "vmware-fusion"
           "steam"
           "eloston-chromium"
+          "prismlauncher"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

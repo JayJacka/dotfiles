@@ -57,6 +57,7 @@
           "steam"
           "eloston-chromium"
           "prismlauncher"
+          "linearmouse"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

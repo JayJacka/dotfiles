@@ -47,7 +47,7 @@
           "mas"
           "pyenv"
           "pyenv-virtualenv"
-          "sevenzip"
+          "p7zip"
         ];
         casks = [
           "orbstack"

@@ -48,6 +48,7 @@
           "pyenv"
           "pyenv-virtualenv"
           "p7zip"
+          "pearcleaner"
         ];
         casks = [
           "orbstack"

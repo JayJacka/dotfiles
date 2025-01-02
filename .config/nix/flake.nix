@@ -59,6 +59,7 @@
           "eloston-chromium"
           "prismlauncher"
           "linearmouse"
+          "pika"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

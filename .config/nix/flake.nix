@@ -48,7 +48,6 @@
           "pyenv"
           "pyenv-virtualenv"
           "p7zip"
-          "pearcleaner"
         ];
         casks = [
           "orbstack"
@@ -61,6 +60,7 @@
           "prismlauncher"
           "linearmouse"
           "pika"
+          "pearcleaner"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

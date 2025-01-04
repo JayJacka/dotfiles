@@ -56,7 +56,6 @@
           "parsec"
           "vmware-fusion"
           "steam"
-          "eloston-chromium"
           "prismlauncher"
           "linearmouse"
           "pika"
@@ -66,7 +65,6 @@
           "Hidden Bar" = 1452453066;
           "Line" = 539883307;
           "Userscripts" = 1463298887;
-          "AdGuard for Safari" = 1440147259;
           "Shortery" = 1594183810;
           "Amphetamine" = 937984704;
           "Moises" = 1515796612;

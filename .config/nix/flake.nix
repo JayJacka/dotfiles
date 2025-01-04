@@ -67,7 +67,6 @@
           "Userscripts" = 1463298887;
           "Shortery" = 1594183810;
           "Amphetamine" = 937984704;
-          "Moises" = 1515796612;
         };
         onActivation.cleanup = "zap";
         onActivation.autoUpdate = true;

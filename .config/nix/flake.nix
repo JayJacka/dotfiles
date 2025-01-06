@@ -35,6 +35,7 @@
           pkgs.zoom-us
           pkgs.karabiner-elements
           pkgs.stow
+          pkgs.godot
         ];
       
       fonts.packages = [

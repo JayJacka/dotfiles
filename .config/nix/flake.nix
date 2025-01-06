@@ -35,7 +35,6 @@
           pkgs.zoom-us
           pkgs.karabiner-elements
           pkgs.stow
-          pkgs.godot3
         ];
       
       fonts.packages = [
@@ -61,6 +60,7 @@
           "linearmouse"
           "pika"
           "pearcleaner"
+          "godot"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

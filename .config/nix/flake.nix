@@ -36,6 +36,7 @@
           pkgs.karabiner-elements
           pkgs.stow
           pkgs.wget
+          pkgs.blender
         ];
       
       fonts.packages = [

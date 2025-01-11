@@ -36,7 +36,6 @@
           pkgs.karabiner-elements
           pkgs.stow
           pkgs.wget
-          pkgs.blender
         ];
       
       fonts.packages = [
@@ -64,6 +63,7 @@
           "pearcleaner"
           "godot"
           "zen-browser"
+          "blender"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

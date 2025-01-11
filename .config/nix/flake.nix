@@ -61,6 +61,7 @@
           "pika"
           "pearcleaner"
           "godot"
+          "zen-browser"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

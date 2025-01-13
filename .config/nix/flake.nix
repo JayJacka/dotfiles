@@ -64,6 +64,7 @@
           "godot"
           "zen-browser"
           "blender"
+          "vlc"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

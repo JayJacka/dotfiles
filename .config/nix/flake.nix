@@ -65,6 +65,7 @@
           "zen-browser"
           "blender"
           "vlc"
+          "jordanbaird-ice"
         ];
         masApps = {
           "Hidden Bar" = 1452453066;

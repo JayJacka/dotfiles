@@ -66,6 +66,7 @@
           "blender"
           "vlc"
           "jordanbaird-ice"
+          "moonlight"
         ];
         masApps = {
           "Line" = 539883307;

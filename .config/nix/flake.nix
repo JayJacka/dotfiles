@@ -26,7 +26,6 @@
           pkgs.alt-tab-macos
           pkgs.discord
           pkgs.iterm2
-          pkgs.raycast
           pkgs.docker
           pkgs.go
           pkgs.nmap

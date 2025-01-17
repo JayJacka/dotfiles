@@ -51,6 +51,7 @@
         ];
         casks = [
           "orbstack"
+          "raycast"
           "postman"
           "betterdisplay"
           "parsec"

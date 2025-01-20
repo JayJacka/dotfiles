@@ -46,6 +46,7 @@
         brews = [
           "mas"
           "pyenv"
+          "nvm"
           "pyenv-virtualenv"
           "p7zip"
         ];

@@ -68,6 +68,7 @@
           "vlc"
           "jordanbaird-ice"
           "moonlight"
+          "keyboardcleantool"
         ];
         masApps = {
           "Line" = 539883307;

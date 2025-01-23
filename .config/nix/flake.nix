@@ -69,6 +69,7 @@
           "jordanbaird-ice"
           "moonlight"
           "keyboardcleantool"
+          "heroic"
         ];
         masApps = {
           "Line" = 539883307;

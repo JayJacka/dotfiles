@@ -41,37 +41,6 @@
                         "product_id": 641,
                         "vendor_id": 1452
                     }
-                },
-                {
-                    "fn_function_keys": [
-                        {
-                            "from": { "key_code": "f3" },
-                            "to": [{ "key_code": "f3" }]
-                        },
-                        {
-                            "from": { "key_code": "f4" },
-                            "to": [{ "key_code": "f4" }]
-                        },
-                        {
-                            "from": { "key_code": "f5" },
-                            "to": [{ "key_code": "f5" }]
-                        },
-                        {
-                            "from": { "key_code": "f6" },
-                            "to": [{ "key_code": "f6" }]
-                        }
-                    ],
-                    "identifiers": {
-                        "is_keyboard": true,
-                        "product_id": 591,
-                        "vendor_id": 1452
-                    },
-                    "simple_modifications": [
-                        {
-                            "from": { "key_code": "right_command" },
-                            "to": [{ "key_code": "f13" }]
-                        }
-                    ]
                 }
             ],
             "name": "Default profile",

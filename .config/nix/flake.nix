@@ -73,6 +73,7 @@
         masApps = {
           "Line" = 539883307;
           "Shortery" = 1594183810;
+          "Amphetamine" = 937984704;
         };
         onActivation.cleanup = "zap";
         onActivation.autoUpdate = true;

@@ -71,6 +71,7 @@
           "moonlight"
           "keyboardcleantool"
           "heroic"
+          "whisky"
         ];
         masApps = {
           "Line" = 539883307;

@@ -72,6 +72,7 @@
           "keyboardcleantool"
           "heroic"
           "whisky"
+          "codeedit
         ];
         masApps = {
           "Line" = 539883307;
